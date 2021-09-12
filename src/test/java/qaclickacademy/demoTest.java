@@ -13,6 +13,7 @@ public class demoTest {
 	public void shoppingtest()
 	{
 		System.out.println("shop");
+		System.out.println("shopping");
 	}
 	
 	
